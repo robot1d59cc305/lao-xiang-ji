@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AppNavigation\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_view.xml.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AppNavigation\\app\\src\\main\\res\\layout\\content_view.xml"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AppNavigation\\app\\build\\intermediates\\res\\merged\\debug\\layout_simple_up.xml.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AppNavigation\\app\\src\\main\\res\\layout\\simple_up.xml"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AppNavigation\\app\\build\\intermediates\\res\\merged\\debug\\layout_interstitial_message.xml.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AppNavigation\\app\\src\\main\\res\\layout\\interstitial_message.xml"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AppNavigation\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_from_other_task.xml.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AppNavigation\\app\\src\\main\\res\\layout\\view_from_other_task.xml"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AppNavigation\\app\\build\\intermediates\\res\\merged\\debug\\layout_outside_task.xml.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AppNavigation\\app\\src\\main\\res\\layout\\outside_task.xml"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AppNavigation\\app\\build\\intermediates\\res\\merged\\debug\\layout_notifications.xml.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AppNavigation\\app\\src\\main\\res\\layout\\notifications.xml"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AppNavigation\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_category.xml.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AppNavigation\\app\\src\\main\\res\\layout\\content_category.xml"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AppNavigation\\app\\build\\intermediates\\res\\merged\\debug\\layout_peer.xml.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AppNavigation\\app\\src\\main\\res\\layout\\peer.xml"
+    }
+]

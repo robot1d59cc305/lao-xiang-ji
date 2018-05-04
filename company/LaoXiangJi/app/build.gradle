@@ -1,28 +1,64 @@
+// 通过项目根目录下的build.gradle脚本下载到了android-gradle-dsl的部分,在这里使用这个插件. 这里的脚本使用Groovy语言.
 apply plugin: 'com.android.application'
 
+// android脚本部分
 android {
-    compileSdkVersion 26
+
+    // 编译时会使用到的SDKVersion版本,
+    compileSdkVersion 27
+
+    // 默认配置来app Module
     defaultConfig {
+
+        // 包的名称,在安装debug版本的时候设置的包名要跟发布版本的包名是一致的,因为我们需要在一个模拟器或者一个真机里面安装这两个版本不可能一会安装一个debug版本一会安装一个release版本.因为只有包名一致的情况下才能够将两个APK同时安装到一个模拟器里面.
         applicationId "laoxiangji.example.com"
+
+        // 18 4.0版本覆盖最多的人群使用,让大部分用户在使用的时候感觉到稳定.
         minSdkVersion 18
-        targetSdkVersion 26
+
+        // 27 8.1版本来获得最好的使用体验和效果.获取新功能.
+        targetSdkVersion 27
+
+        // 版本代码属性给系统识别的.
         versionCode 1
-        versionName "1.0"
+
+        // 版本名称,给用户识别的.
+        versionName = "1.0"
+
+        //
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        printf "当前的版本号是${versionName}"
+
     }
+
     buildTypes {
         release {
+            /* 是否压缩代码属性如果给false值那么就不会进行代码压缩,为什么需要压缩因为APP一旦发布之后就会提供下载,
+             * 如果这个时候APP里面的代码和功能被人下载并且有可能APP里面的数据和信息被泄露或者被HACKER如果说此时APP里面只要涉及到有金融支付之类的并且遭到了重大的损失.
+             * 那么最终的责任可能会找到这个项目的主力开发人员头上,所以最好是做好一系列的安全措施.
+             * 具体参考 https://developer.android.com/studio/build/shrink-code?hl=zh-CN 这篇文章.
+             * */
             minifyEnabled false
+
+            /*
+             * proguardFiles getDefaultProguardFile('proguard-android.txt')表示获取SDK下'proguard-android.txt‘文件中的默认混淆规则。
+             * 'proguard-rules.pro'表示使用项目根目录下的 'proguard-rules.pro'文件中的混淆规则。
+             * proguard-rules.pro文件名可以任意，只要在配置文件中指明即可。比如，从其它项目中复制一个proguard.cfg混淆规则文件，
+             * 只需将上面的代码改成 proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard.cfg'即可，这句话表示使用项目中根目录下的proguard.cfg文件作为本项目的混淆规则文件。
+             * */
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
 }
+
 dependencies {
-    implementation 'com.youth.banner:banner:1.4.10'  //最新版本
+    /*
+     * 在com.android.tools.build:gradle 3.0 版本依赖在gradle 中的声明写法是使用compile  但是在后面的时候这个API已经被废弃掉了.
+     * 改为使用implementation这个API来获取依赖(jar,aar)的名称参数,通过获取到这个依赖的名称参数之后,就会到顶级的build.gradle文件里面去到相应的仓库上去下载.下载好之后就会放到本地的缓存仓库当中进行调用.
+     * */
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation 'com.android.support:appcompat-v7:26.1.0'
-    implementation 'com.android.support.constraint:constraint-layout:1.1.0'
-    implementation 'com.android.support:design:26.1.0'
+    implementation 'com.android.support:appcompat-v7:27.1.1'
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'

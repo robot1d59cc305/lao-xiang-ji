@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_refresh.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable-mdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11_actionbar_indeterminate_progress.xml.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\layout-v11\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_share.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_actionbar_compat_item.xml.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable\\actionbar_compat_item.xml"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_refresh.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_actionbar_shadow.9.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable-hdpi\\actionbar_shadow.9.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_actionbar_compat_item_pressed.xml.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable\\actionbar_compat_item_pressed.xml"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_share.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable-hdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_refresh.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable-hdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\layout_actionbar_compat.xml.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\layout\\actionbar_compat.xml"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_actionbar_compat_item_focused.xml.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable\\actionbar_compat_item_focused.xml"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_share.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable-mdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_actionbar_shadow.9.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_shadow.9.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_actionbar_shadow.9.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable-mdpi\\actionbar_shadow.9.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_share.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_share.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_share.png"
+    }
+]

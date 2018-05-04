@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AppNavigation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AppNavigation\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "21,22,16",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "876,958,686",
+                        "endLines": "21,22,19",
+                        "endColumns": "81,90,12",
+                        "endOffsets": "953,1044,870"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,136,226",
+                        "endLines": "2,3,7",
+                        "endColumns": "80,89,12",
+                        "endOffsets": "131,221,410"
+                    }
+                },
+                {
+                    "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AppNavigation\\app\\src\\main\\res\\values-v11\\themes.xml",
+                    "from": {
+                        "startLines": "17,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "760,686",
+                        "endColumns": "75,73",
+                        "endOffsets": "831,755"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "415,490",
+                        "endColumns": "74,72",
+                        "endOffsets": "485,558"
+                    }
+                }
+            ]
+        }
+    ]
+}

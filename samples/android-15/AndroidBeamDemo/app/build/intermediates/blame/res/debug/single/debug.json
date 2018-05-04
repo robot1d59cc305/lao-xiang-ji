@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AndroidBeamDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AndroidBeamDemo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AndroidBeamDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_preferences.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AndroidBeamDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_preferences.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AndroidBeamDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_preferences.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AndroidBeamDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_preferences.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AndroidBeamDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu_options.xml.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AndroidBeamDemo\\app\\src\\main\\res\\menu\\options.xml"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AndroidBeamDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AndroidBeamDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AndroidBeamDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AndroidBeamDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AndroidBeamDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_preferences.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AndroidBeamDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_preferences.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AndroidBeamDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AndroidBeamDemo\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AndroidBeamDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\AndroidBeamDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

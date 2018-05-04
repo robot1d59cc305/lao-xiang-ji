@@ -1,0 +1,144 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\values-v13_values-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\values-v13\\styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "621",
+                        "endLines": "20",
+                        "endColumns": "12",
+                        "endOffsets": "804"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "238"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "23,29,18",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "855,1133,621",
+                        "endLines": "27,31,21",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "1127,1250,849"
+                    },
+                    "to": {
+                        "startLines": "2,7,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,332,454",
+                        "endLines": "6,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "327,449,682"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "19,18,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "736,675,620",
+                        "endColumns": "65,60,54",
+                        "endOffsets": "797,731,670"
+                    },
+                    "to": {
+                        "startLines": "5,6,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "581,647,708",
+                        "endColumns": "65,60,54",
+                        "endOffsets": "642,703,758"
+                    }
+                },
+                {
+                    "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "30,34,40,44,18",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1356,1457,1703,1872,621",
+                        "endLines": "32,38,42,53,28",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "1451,1697,1866,2375,1350"
+                    },
+                    "to": {
+                        "startLines": "19,22,27,30,40",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1354,1454,1699,1867,2375",
+                        "endLines": "21,26,29,39,50",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "1449,1694,1862,2370,3104"
+                    }
+                },
+                {
+                    "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "620",
+                        "endColumns": "55",
+                        "endOffsets": "671"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                },
+                {
+                    "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\values\\ids.xml",
+                    "from": {
+                        "startLines": "17,20,19,18,21",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "620,789,720,667,849",
+                        "endColumns": "46,59,68,52,42",
+                        "endOffsets": "662,844,784,715,887"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "763,809,868,936,988",
+                        "endColumns": "45,58,67,51,41",
+                        "endOffsets": "804,863,931,983,1025"
+                    }
+                },
+                {
+                    "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "18,17,21,22,23,19",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "673,620,804,853,900,749",
+                        "endColumns": "75,52,48,46,44,53",
+                        "endOffsets": "744,668,848,895,940,798"
+                    },
+                    "to": {
+                        "startLines": "13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "1030,1106,1159,1208,1255,1300",
+                        "endColumns": "75,52,48,46,44,53",
+                        "endOffsets": "1101,1154,1203,1250,1295,1349"
+                    }
+                }
+            ]
+        }
+    ]
+}

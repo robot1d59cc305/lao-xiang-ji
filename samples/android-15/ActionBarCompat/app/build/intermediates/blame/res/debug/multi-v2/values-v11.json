@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "D:\\git_repository\\robot1d59cc305\\my_repository\\samples\\android-15\\ActionBarCompat\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "23,29,18",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "855,1133,621",
+                        "endLines": "27,31,21",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "1127,1250,849"
+                    },
+                    "to": {
+                        "startLines": "2,7,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,332,454",
+                        "endLines": "6,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "327,449,682"
+                    }
+                }
+            ]
+        }
+    ]
+}
